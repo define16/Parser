@@ -1,4 +1,4 @@
-package mysql;
+﻿package mysql;
 
 import java.io.File;
 import java.io.IOException;
@@ -16,6 +16,12 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
+
+/**
+ * 
+ * @author JunHyeong
+ *
+ */
 
 public class XsdElements {
 	  public static void main(String args[]) { 
